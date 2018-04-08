@@ -8,5 +8,5 @@ def display_board
 end
 
 board =["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ",]
- 
+
 # out the current state.
